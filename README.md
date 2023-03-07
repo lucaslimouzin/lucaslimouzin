@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Givros, in the process of becoming a Web Developer react full stack!
+I'm Givros, in the process of becoming a Web Developer flutter!
 
 ## 👾 I'm building with...
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
